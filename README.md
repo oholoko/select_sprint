@@ -11,3 +11,6 @@ Pode os instalar facilmente utilizando
 ```
 pip install requirements.txt
 ```
+
+## Como replicar meus estudos:
+Começando 
