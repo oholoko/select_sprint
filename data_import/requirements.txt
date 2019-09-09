@@ -1,0 +1,7 @@
+boto3==1.9.199
+pandas==0.23.4
+gmplot==1.2.0
+SQLAlchemy==1.2.15
+psycopg2==2.8.3
+numpy==1.15.4
+matplotlib==3.0.2
